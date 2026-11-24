@@ -8,3 +8,4 @@ cake = Cake("草莓")          # 创建蛋糕，贴上标签 cake
 print("蛋糕还在")
 cake = None                  # 撕掉唯一的标签 → 没人引用了 → 触发回收
 print("撕掉标签之后")
+print("hellow, world!")
